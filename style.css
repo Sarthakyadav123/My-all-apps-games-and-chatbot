@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+#app{
+
+ background-color: blue;
+  
+}
+
+h1 {
+    color: rgb(255, 0, 149);
+}
+
+#game{
+    background-color: red;
+}
+
+#chatbot {
+    background-color: orange;
+}
